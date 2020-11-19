@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 const Schema = mongoose.Schema;
-
+//everything in Mongoose starts with a Schema. Each schema maps to a MongoDB collection and defines the shape
 const transactionSchema = new Schema(
   {
     name: {
