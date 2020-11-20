@@ -3,6 +3,7 @@
 The budgeting app keeps track of personal finances. By utilize IndexedDB, cache API, and Service Workers, provides an offline experience for the application.
 
 ## Overview
+
 Occasionally, a user will access the web from older devices with a slower connection. Web applications are growing continuessly in size and complexity, therefore, as do the load times. In order to ensure the experience is user-friendly, it is important ot optimize the performance.
 Chrome Devtools is the primary tool for measuring the performance. Devtools monitors network trafficing and inspect the resource size downloaded (ie. HTML, CSS, JavaScript and images).
 
